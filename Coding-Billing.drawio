@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T19:45:51.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="qcuJ-2sWnOR15Oro4GDN" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-22T19:46:37.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="BfTbXcXmBX_aXJ8bpv_U" version="15.5.5" type="github">
   <diagram id="2S5cZz01v0r1ZScMrddh" name="Page-3">
     <mxGraphModel dx="2249" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -862,7 +862,7 @@
             <mxRectangle width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BDAYG3h8obEUxNm0mH2b-290" value="1. Person may need to be extracted to another table.&lt;br&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="BDAYG3h8obEUxNm0mH2b-1">
+        <mxCell id="BDAYG3h8obEUxNm0mH2b-290" value="&lt;div&gt;1. In the case of COB, what % of the total amount is shared between primary and other payors/carriers&lt;/div&gt;&lt;div&gt;2. What is the case where Medicare (federal) is also involved in the payment?&lt;/div&gt;&lt;div&gt;3. Will there be participation of both Medicare and Medicaid(state)?&lt;/div&gt;&lt;div&gt;4. In the case of COB will How the claim submission data is sent? Good to see the submission form to both primary, and thirdparty.&lt;/div&gt;&lt;div&gt;5. There could be additional fields&lt;/div&gt;&lt;div&gt;6. How do we handle Other insured? Need more details to add to the schema&lt;/div&gt;&lt;div&gt;7. More details on rules needed to how do we store Medicare and Medicaid&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="BDAYG3h8obEUxNm0mH2b-1">
           <mxGeometry x="-810" y="20" width="300" height="210" as="geometry" />
         </mxCell>
         <mxCell id="BDAYG3h8obEUxNm0mH2b-413" value="Procedure" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="BDAYG3h8obEUxNm0mH2b-1">
